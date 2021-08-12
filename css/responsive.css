@@ -1,0 +1,26 @@
+@media screen and (max-width: 992px) {
+    
+    header .headerRight {
+        display: block;
+    }
+
+    header .headerRight .navLogo{
+        width: 100%;
+        display: flex;
+    }
+    
+    header .headerRight .navLogo .quession{
+        
+    }
+
+    header .menu1 ul{
+        display: none;
+    }
+    header .hamburger{
+        display: block;
+    }
+
+    .deFlex{
+        display: block;
+    }
+}
